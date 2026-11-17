@@ -1,0 +1,8 @@
+id=ghx_hz_lock
+name=屏幕刷新率锁定
+version=3.1
+versionCode=3
+author=ghx
+description=读取屏幕支持的最高刷新率并锁定，锁屏与省电时也保持高刷；操作按钮可查看当前帧率与设备信息。
+banner=banner.jpg
+axeronPlugin=10400
